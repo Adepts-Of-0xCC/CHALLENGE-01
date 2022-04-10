@@ -1,6 +1,10 @@
 # CHALLENGE-01
 Dear Fell**owl**ship, is a pleasure to us to release our first challenge.
 
+You can find the write up here:
+
+[In the land of PHP you will always be (use-after-)free](https://adepts.of0x.cc/challenge01-php-uaf/)
+
 # Rules
 Keep the things simple. Here you have the source code and docker files to replicate the environment in your own lab. 
 
